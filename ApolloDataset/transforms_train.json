@@ -1,0 +1,66 @@
+{
+    "camera_angle_x": 0.7688073496995989,
+    "frames": [
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_1.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_2.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_3.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_4.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_5.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_6.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_7.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_8.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_9.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_10.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_11.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_12.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_13.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_14.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        },
+        {
+            "file_path": "/home/shalom/Assignment4/ApolloDataset/apollo_15.png",
+            "transform_matrix": [[1, 0, 0, 0],[0, 1, 0, 0],[0, 0, 1, 0],[0, 0, 0, 1]]
+        }
+    ]
+}
+
